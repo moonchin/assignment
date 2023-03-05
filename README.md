@@ -1,2 +1,2 @@
 # assignment
-Repository for the Written Assignment
+Repository for the Python Written Assignment
